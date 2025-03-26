@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "zenoviaraymentevans",
+    "is_private": false,
+    "title": "Annotation of Maya Angelou's \"And Still I Rise\"",
+    "description": "this is an annotation of Maya Angelou's poem \"And Still I rise\" ",
+    "language": "en",
+    "slug": "zreangelou",
+    "creator": "zenoviaraymentevans",
+    "authors": "Zenovia Rayment-Evans",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-26T21:59:06.243Z",
+    "updated_at": "2025-03-26T21:59:06.243Z"
   }
 }
